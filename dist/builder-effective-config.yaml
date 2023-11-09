@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+appId: Warden
+win:
+  target:
+    - nsis
+  icon: src/img/icon.ico
+nsis:
+  oneClick: true
+  installerIcon: src/img/icon.ico
+  uninstallerIcon: src/img/icon.ico
+  uninstallDisplayName: uninstall-Warden
+files: []
+electronVersion: 26.2.1

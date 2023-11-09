@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: Warden-Setup-1.0.0.exe
+    sha512: dIjadyJJc16Oi4ROpsLLFS/Cj/kAf9Pgud9FF/rRlfweiuKub3es4ndEMDU1TR2EYDPmrJf7jgp06GHLzGoEZg==
+    size: 73467613
+path: Warden-Setup-1.0.0.exe
+sha512: dIjadyJJc16Oi4ROpsLLFS/Cj/kAf9Pgud9FF/rRlfweiuKub3es4ndEMDU1TR2EYDPmrJf7jgp06GHLzGoEZg==
+releaseDate: '2023-11-09T19:52:12.253Z'
